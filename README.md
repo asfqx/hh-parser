@@ -38,6 +38,7 @@
 main.py
 
 app/
+
 ├── handlers/
 
 │ ├── search_resumes.py
