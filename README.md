@@ -39,12 +39,21 @@ main.py
 
 app/
 ├── handlers/
+
 │ ├── search_resumes.py
+
 │ ├── start.py
+
 │ └── start_auth.py
+
 └── services/
+
 ├── code.py
+
 ├── get_tokens.py
+
 ├── save_resumes.py
+
 ├── search.py
+
 └── search_resumes.py
